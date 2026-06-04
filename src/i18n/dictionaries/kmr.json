@@ -1,0 +1,358 @@
+{
+  "siteName": "KISA",
+  "siteNameFull": "Komeleya Navneteweyî ya Civaknasiya Kurdistanê",
+  "tagline": "Komeleyeke serbixwe, akademîk û ne-partîzan ji bo pêşxistina civaknasiyê li ser Kurdistan, civakên Kurd û diyasporayê.",
+  "nav": {
+    "home": "Mal",
+    "about": "Derbarê",
+    "governance": "Birêvebirin",
+    "conference": "Konferans",
+    "journal": "Kovara",
+    "members": "Endam",
+    "gallery": "Galerî",
+    "news": "Nûçe",
+    "contact": "Têkilî",
+    "bylaw": "Bingehname",
+    "resources": "Girêdan"
+  },
+  "ui": {
+    "viewPdf": "PDF bibîne →",
+    "verified": "PIŞTRASTKIRÎ",
+    "officialDocument": "BELGEYA FERMÎ",
+    "readCfp": "Banga Gotaran bixwîne →",
+    "september": "KANÛNA YEKEM",
+    "kurdistanIraq": "HERÊMA KURDISTANÊ · IRAQ",
+    "twoDays": "2 ROJ",
+    "languagesBadge": "EN · CKB · KMR",
+    "firstIntlConf": "KONFERANSA YEKEM A NAVNETEWEYÎ",
+    "stream": "BEŞ",
+    "photographs": "WÊNE",
+    "submitByEmail": "Bi e-name bişîne →",
+    "submitProposal": "PÊŞNIYARA XWE BIŞÎNE"
+  },
+  "home": {
+    "heroEyebrow": "Damezirandî 2023 · Serbixwe · Ne-partîzan · Akademîk",
+    "heroTitle": "Mala akademîk ji bo civaknasên Kurdistan û diyasporaya Kurd.",
+    "heroLead": "KISA civaknas, lêkolîner, xwendekarên xwendina bilind û rewşenbîrên giştî yên ku li ser civaka Kurd, Kurdistan, diyaspora û civaknasiya berawirdkar a cîhanî dixebitin kom dike — bi rêya konferansan, weşanan, rêberî û hevkariya navneteweyî.",
+    "ctaConference": "Konferansa 2026",
+    "ctaJoin": "Bibe endam",
+    "heroMeta": ["HEJMAR · I", "2026", "HEWLÊR"],
+    "ticker": [
+      "Hejmara I · Sala damezirandinê",
+      "Hewlêr · Kanûna Yekem 2026",
+      "Damezirandî Toronto · 2023",
+      "Tomarkirî li Kanada û Herêma Kurdistanê",
+      "Kovara peer-review wê were",
+      "Îngilîzî · Soranî · Kurmancî"
+    ],
+    "highlightsTitle": "Çalakiyên Komeleyê",
+    "highlights": [
+      { "title": "Konferansên akademîk", "body": "Konferansên salane û duwa-salane li Kurdistanê û derve, bi Îngilîzî, Soranî û Kurmancî." },
+      { "title": "Kovara peer-review", "body": "Kurdistan Sociological Review — weşana salane û peer-review ya KISA, bi Îngilîzî û Kurdî." },
+      { "title": "Pira navneteweyî", "body": "Cihê pîşeyî ku civaknasên Kurd bi civakên akademîk ên herêmî û cîhanî ve girê dide." },
+      { "title": "Rêberî û perwerde", "body": "Piştgiriya xwendekarên xwendina bilind, atolyeyên rêbazî û torên lêkolînê yên destpêkî li Kurdistan û diyasporayê." }
+    ],
+    "featureKicker": "Banga Gotaran",
+    "featureTitle": "Konferansa Yekem a Navneteweyî ya KISA",
+    "featureSubtitle": "Civaknasî, Civak û Guhertina Civakî li Kurdistanê",
+    "featureBody": "Du roj ji civaknasên Kurd, yên girêdayî Kurdistanê û yên navneteweyî li Hewlêrê pêk tê. Kurtebêj pêwîst e bi Îngilîzî bin; pêşkêşkirin bi Îngilîzî, Soranî an Kurmancî.",
+    "featureCta": "Banga Gotaran →",
+    "pillarsTitle": "Karê me li ku diqewime",
+    "pillarsLead": "Şeş xêzên lêkolînê karê komeleyê pêk tînin — ji banga gotaran a konferans û kovarê hatine girtin.",
+    "pillars": [
+      { "title": "Civak, nasname, guhertin", "body": "Nasnameya Kurdî, neteweparêzî, bîranîna hevpar, malbat, ziman, guhertina nifşan." },
+      { "title": "Kalîteya jiyanê", "body": "Bextiyarî, razîbûna jiyanê, perwerde, xanî û nîşaneyên civakî." },
+      { "title": "Maf û newekhevî", "body": "Newekheviya etnîkî, zayend, çîn, mafên kêmaran, hemwelatîbûn, dadweriya civakî." },
+      { "title": "Pevçûn û aştî", "body": "Encamên şer, koçberî, trawma, ewlehî, aştevanî." },
+      { "title": "Koç û diyaspora", "body": "Ezmûnên penaberan, torên trans-neteweyî, nasnameya diyasporayê, entegrasyon." },
+      { "title": "Birêvebirin û civaka sivîl", "body": "Xwendina bilind, azadiya akademîk, tevgerên civakî, veguherîna demokratîk." }
+    ],
+    "newsTitle": "Ji maseya nivîsê",
+    "newsCta": "Hemû nûçe"
+  },
+  "about": {
+    "title": "Derbarê KISA",
+    "lead": "Komeleya Navneteweyî ya Civaknasiya Kurdistanê komeleyeke akademîk a serbixwe, akademîk, ne-partîzan û bê-qezenc e.",
+    "intro": [
+      "KISA terxan kiriye bo pêşxistina civaknasiyê, lêkolîna civakî, hînkirin, weşandin, danûstandina pîşeyî û têgihîştina giştî ya civakê. Civaknas, lêkolîner, akademîsyen, xwendekarên xwendina bilind, rewşenbîrên giştî û saziyên lêkolînê yên balkêş bi civaka Kurd, Kurdistan, diyaspora û Rojhilata Navîn re kom dike.",
+      "Yek ji armancên sereke yên KISA avakirina pirekî akademîk a xurt e di navbera civaknasên Kurd, lêkolînerên girêdayî Kurdistanê û akademîsyenên navneteweyî de. KISA dixwaze bibe navenda akademîk a sereke ji bo hemû kesên ku di civaknasiya Kurdî de dixebitin.",
+      "Wek komeleyeke akademîk, KISA pabend e bi standardên bilind ên rastgoyiya akademîk, hûrbîniya rêbazî, vekirîbûna hizirî û berpirsiyariya etîkê. KISA tu partî, hikûmet, koma îdeolojîk an rêxistinên partîzan temsîl nake."
+    ],
+    "missionTitle": "Erk",
+    "mission": "Pêşxistina lêkolîn, hînkirin, weşandin, danûstandina pîşeyî û diyaloga akademîk li ser Kurdistan, civakên Kurd, diyasporaya Kurd û mijarên civakî yên cîhanî yên girêdayî — û wek navendekê akademîk a navneteweyî xizmet bike ku lêkolîner, xwendekar, mamoste û sazî nêrînan biguherin, torên lêkolînê pêşbixin û naskirina cîhanî ya civaknasiya Kurdî xurt bikin.",
+    "visionTitle": "Vîzyon",
+    "vision": "Bibe komeleyeke navneteweyî ya pêşeng ji bo civaknasiya Kurdî, girêdayî Kurdistanê û berawirdkar — beşdarî bûyîn ji bo paşerojê ku tê de civakên Kurd ne tenê bi lensa krîz, pevçûn an cîhpolîtîk lê wek hilberînerên teoriya civaknasiyê, zaniyariya empîrîk, analîza çandî, nîşaneyên civakî û lêkolîna gelemperî têne xwendin.",
+    "valuesTitle": "Nirxên Bingehîn",
+    "values": [
+      { "title": "Azadiya akademîk û rastgoyiya zanistî", "body": "Lêkolîna vekirî, nîqaşa rexnegirî, lêkolîna hûrbîn, şefafiya rêbazî û şîrovekirina berpirsiyar a delîlan." },
+      { "title": "Serbixwebûn û ne-partîzanî", "body": "Serbixwebûna sazî ji partîyên siyasî, hikûmetan, komên çekdar, saziyên dînî û armancên partîzan." },
+      { "title": "Rûmeta mirovî, yeksanî û tevahîbûn", "body": "Lêkolîna civaknasî ya ku rûmeta mirov rêz dike û newekheviyê, derxistina, cudakariyê û dadweriya civakî lêkolîn dike." },
+      { "title": "Civaknasiya gelemperî û berpirsiyariya civakî", "body": "Beşdarî di têgihîştina giştî, nîqaşên siyasetê û diyaloga civakê de, digel parastina serbixwebûna akademîk." },
+      { "title": "Avakirina piran û hevkariya navneteweyî", "body": "Girêdana civaknasên Kurd li Kurdistanê, diyaspora û akademiya navneteweyî." }
+    ]
+  },
+  "governance": {
+    "title": "Birêvebirin û Serokatî",
+    "lead": "Strukturê birêvebirinê yê KISA şefafiyê, berpirsiyariyê, serbixwebûna akademîk û beşdariya demokratîk piştrast dike. Lijneya Birêvebirin û Serokatiyê ji çar endamên rêveber û pênc endamên Lijneya Şêwirmendiya Akademîk pêk tê.",
+    "executiveTitle": "Lijneya Rêveber",
+    "vacanciesTitle": "Lijneya Rêveber · Pozîsyonên Vala",
+    "advisoryTitle": "Lijneya Şêwirmendiya Akademîk",
+    "advisoryShort": "ŞÊWIRMENDIYA AKADEMÎK",
+    "committeesTitle": "Lijne",
+    "credentialsTitle": "Tomarkirina Fermî",
+    "credentialsLead": "KISA li Kanadayê wek rêxistineke bê-qezenc hatiye tomarkirin û li Herêma Kurdistanê wek navendê civakî ye nas kirin. Belgeyên fermî yên jêrîn rewşa qanûnî û rasteqîn a KISA piştrast dikin.",
+    "documentsTitle": "Belgeyên damezirandinê",
+    "documents": [
+      { "title": "Bendên Damezirandinê", "subtitle": "Hikûmeta Kanadayê · 2024", "file": "/docs/articles-of-incorporation.pdf" },
+      { "title": "Ofîsa Fermî & Rêvebir", "subtitle": "Navnîşana ofîsa fermî ya destpêkê û lijneya yekem a rêvebiran", "file": "/docs/registered-office-and-directors.pdf" }
+    ],
+    "credentials": {
+      "krg": "Pesendkirina Hikûmeta Herêma Kurdistanê — Wezareta Karên Hundir, Hewlêr (2024)",
+      "apostille": "Apostille ya Kanadayî — Wezareta Karên Derve, Ottawa (Hezîran 2024)",
+      "krgImg": "/credentials/krg-letter.jpg",
+      "apostilleImg": "/credentials/canada-apostille.jpg"
+    },
+    "committees": [
+      { "title": "Lijneya Hêza Kar", "body": "Lijneyeke daîmî ya ku berpirsiyar e ji bo pêkanîna însiyatîfên bingehîn ên komeleyê — rêxistina konferansê, hilberîna kovarê û pêşxistina endamtiyê.", "seats": 3 },
+      { "title": "Lijneya Demkî", "body": "Lijneyên demkî yên ku ji aliyê Lijneyê ve têne damezirandin ji bo erkên taybet, nirxandin an bûyeran, û piştî qedandina mîsyona xwe têne hilweşandin.", "seats": 3 }
+    ],
+    "placeholder": {
+      "name": "Wê di nêzîk de were ragihandin",
+      "bio": "Ev pozîsyon dê di Civîna Giştî ya pêş de bi hilbijartinê were dagirtin. Agahiyên jiyannameyî dê li vir bêne weşandin piştî tayînkirinê."
+    },
+    "president": {
+      "role": "Serok",
+      "name": "Dr. Fereydoon Rahmani",
+      "title": "Profesorê Hevkar ê Civaknasiyê",
+      "affiliation": "Beşa Lêkolînên Yeksaniyê, Zanîngeha York, Toronto, Kanada",
+      "email": "rahmanif@yorku.ca",
+      "img": "/president-rahmani.png",
+      "badge": "DAMEZIRANDÎ 2023 · TORONTO",
+      "bio": "Fereydoon Rahmani Profesorê Hevkar ê Civaknasiyê ye li Beşa Lêkolînên Yeksaniyê ya Zanîngeha York, Kanada. PhD û MA ya xwe ya Civaknasiyê ji Zanîngeha Vîyenayê wergirtiye. Lêkolînên wî li ser civaknasî, mafên mirovan, kalîteya jiyanê, nîşaneyên civakî, dadweriya cihê, newekheviya etnîkî, tevgerên civakî û civakên Rojhilata Navîn in. Beriya niha serokê Beşa Civaknasiyê li Zanîngeha Duhokê bû. Dr. Rahmani nivîskarê pirtûka «Rooftop Societies: The Middle East Paradox» e û têgeha «Civakên Banî» pêşniyar kiriye."
+    },
+    "advisor": {
+      "role": "Lijneya Rêveber",
+      "name": "Dr. Zubeida Salih Abdulkhaliq",
+      "title": "Seroka Beşa Civaknasiyê",
+      "affiliation": "Zanîngeha Duhokê, Herêma Kurdistanê, Iraq",
+      "email": "zubeida.abdulkhaliq@uod.ac",
+      "img": "/zubeida-abdulkhaliq.jpg",
+      "bio": "Dr. Zubeida Salih Abdulkhaliq civaknas, lêkolîner, akademîsyen û rojnamevan e ku di lêkolînên medyayê, lêkolînên zayendê, guhertina civakî û pêşxistina civakê de li Herêma Kurdistana Iraqê pispor e. Wê doktoraya xwe ya Civaknasiyê ji École des Hautes Études en Sciences Sociales (EHESS) li Parîsê, Fransa, bi rûmeta herî bilind wergirt. Herwiha xwedî mastir û dîplomaya D.E.R.A. ji Zanîngeha Sorbonne Nouvelle – Parîs III ye. Dr. Abdulkhaliq niha Seroka Beşa Civaknasiyê ye li Zanîngeha Duhokê. Beriya niha Derhênerê Navenda Pêşxistina Şiyanan li Zanîngeha Polîteknîk a Duhokê bû. Li gel rolên xwe yên akademîk û îdarî, wê di gelek projeyên lêkolîn û pêşxistinê yên navneteweyî de bi saziyên Fransa, Brîtanya û Amerîkayê re beşdarî kiriye. Xebata wê ya zanistî li ser medyaya Kurdî, demokrasî, nasname, civaka sivîl û veguherîna civakî ye. Wê herwiha gelek atolye û bernameyên perwerdehiyê yên pîşeyî li ser rêbaza lêkolînê, weşana akademîk, pêşxistina xwendina bilind û beşdariya civakê rêk xistine. Li gel kariyera xwe ya akademîk, Dr. Abdulkhaliq ji sala 1999'an ve di rojnamegeriyê de çalak e û ji bo kovar û platformên medyayê yên herêmî û navneteweyî li ser civak, medya, demokrasî, wekheviya olî û mafên jinan dinivîse. Dr. Abdulkhaliq bi Kurdî, Farisî, Fransî û Îngilîzî herikî ye û Erebî baş dizane."
+    },
+    "roles": {
+      "vicePresident": "Cîgirê Serok",
+      "secretary": "Sekreterê Rêveber",
+      "treasurer": "Xeznedar",
+      "advisor": "Endamê Lijneya Şêwirmendiya Akademîk"
+    }
+  },
+  "conference": {
+    "eyebrow": "Banga Gotaran · Hewlêr 2026",
+    "title": "Konferansa Yekem a Navneteweyî ya KISA",
+    "theme": "Kurdistan di Perspektîfa Civaknasî de: Veguherîna Civakî & Girêdanên Cîhanî",
+    "lead": "KISA bi xemgîn banga gotaran ji bo Konferansa Yekem a Navneteweyî ya xwe ragihand, ku dê di hefteya yekem a Kanûna Yekem 2026'an de li Hewlêrê, paytexta Herêma Kurdistana Iraqê, bê li dar xistin.",
+    "factsTitle": "Bi kurtî",
+    "facts": [
+      { "k": "Dîrok", "v": "2 – 3 Kanûna Yekem 2026" },
+      { "k": "Cih", "v": "Hewlêr · Herêma Kurdistanê" },
+      { "k": "Dem", "v": "Du roj" },
+      { "k": "Ziman", "v": "Îngilîzî, Soranî, Kurmancî" },
+      { "k": "Kurtebêj", "v": "Îngilîzî (pêwîst)" },
+      { "k": "Rêxistinkar", "v": "KISA" }
+    ],
+    "overviewTitle": "Nêrîna Konferansê",
+    "overview": "Ev konferansa navneteweyî ya du-rojan dê civaknas, lêkolîner, xwendekarên xwendina bilind, serokên akademîk, karbidestên xwendina bilind, serokatiya zanîngehan û mêvanên taybet ên Hikûmeta Herêma Kurdistanê bîne cem hev. Wek komeleyeke akademîk, ne-partîzan û bê-qezenc, KISA dixwaze pirekê xurt çêbike di navbera civaknasên Kurd, lêkolîner û akademîsyenên navneteweyî de.",
+    "themeBody": "Konferans bang dike ji bo gotarên lêkolînê yên orîjînal, ramanên teorîk, beşdariyên rêbazî û lêkolînên berawirdkar ên ku guhertina civakî li Kurdistan, civakên Kurd, diyaspora û çarçoveyên herêmî an cîhanî yên girêdayî lêkolîn dikin.",
+    "topicsTitle": "Mijarên Pêşniyarkirî",
+    "topics": [
+      { "title": "Civaka Kurd, Nasname, Neteweparêzî & Guhertina Civakî", "body": "Veguherîna civakî, nasnameya Kurdî, neteweparêzî, bîranîna hevpar, ziman, çand, malbat, ciwan." },
+      { "title": "Kalîteya Jiyanê, Bextiyarî & Nîşaneyên Civakî", "body": "Bextiyariya kesî, razîbûna jiyanê, tendurustî, perwerde, xanî, xizmetên giştî, pîvana şertên civakî." },
+      { "title": "Mafên Mirovan, Newekhevî & Dadweriya Civakî", "body": "Newekheviya etnîkî, zayend, çîn, mafên kêmaran, cudakarî, hemwelatîbûn û lêkolîna li ser mafan." },
+      { "title": "Şer, Pevçûn, Ewlehî & Avakirina Aştiyê", "body": "Encamên şer, tundkariya siyasî, koçberî, trawma, ewlehî, aştevanî û nûveçêkirina paş-pevçûnê." },
+      { "title": "Koç, Diyaspora & Civakên Trans-neteweyî", "body": "Koçberî, ezmûnên penaberan, nasnameya diyasporayê, entegrasyon, torên trans-neteweyî." },
+      { "title": "Perwerde, Birêvebirin, Civaka Sivîl & Demokrasî", "body": "Xwendina bilind, hînkirina civaknasiyê, azadiya akademîk, civaka sivîl, tevgerên civakî, veguherîna demokratîk." }
+    ],
+    "contributionsTitle": "Beşdarî",
+    "contributions": [
+      "Pêşkêşkirinên gotara takekesî",
+      "Pêşniyarên panelê yên mijarî",
+      "Pêşniyarên rûnîniyê",
+      "Pêşniyarên gotûbêja pirtûkan",
+      "Pêşkêşkirinên posterê",
+      "Posterên lêkolînê yên xwendekaran"
+    ],
+    "datesTitle": "Dîrokên Girîng",
+    "dates": [
+      { "k": "Vekirina Banga Gotaran", "v": "1 Îlon 2026" },
+      { "k": "Dawiya Şandina Kurtebêjan", "v": "1 Cotmeh 2026" },
+      { "k": "Ragihandina Qebûlkirinê", "v": "1 Mijdar 2026" },
+      { "k": "Vekirina Tomarkirinê", "v": "10 Mijdar 2026" },
+      { "k": "Dîrokên Konferansê", "v": "2 – 3 Kanûna Yekem 2026" }
+    ],
+    "submissionTitle": "Pêwîstiyên Şandinê",
+    "submissionLead": "Pêşniyarên gotaran divê van tiştan hebin:",
+    "submission": [
+      "Sernavê gotarê",
+      "Kurtebêja Îngilîzî bi qasî 250 – 300 peyvan",
+      "Pênc peyvên bingehîn",
+      "Navê tevahî yê nivîskar, sernavê akademîk, sazî, welat, e-name",
+      "Jiyannameyek kurt bi qasî 100 peyvan",
+      "Zimanê pêşkêşkirinê yê tercîhkirî",
+      "Cureyê beşdariyê"
+    ],
+    "panelNote": "Pêşniyarên panelê divê sernavê panelê, danasînek 300-peyvî, agahiyên rêxistinkar û 3-5 gotarên pêşniyarkirî bi kurtebêjên Îngilîzî hebin.",
+    "contactTitle": "Şandin û Têkilî",
+    "contactBody": "Ji kerema xwe kurtebêj û pêşniyarên panelan bişînin info@kurdistansociology.com bi sernavê: \"KISA 2026 Conference Submission — [Author Last Name]\"."
+  },
+  "journal": {
+    "title": "Kurdistan Sociological Review",
+    "subtitle": "Weşana Akademîk a Salane ya KISA",
+    "lead": "Kurdistan Sociological Review weşaneke akademîk a salane ya peer-review ya Komeleya Navneteweyî ya Civaknasiya Kurdistanê ye.",
+    "coverLabel": "KURDISTAN SOCIOLOGICAL REVIEW",
+    "body": [
+      "Kovar terxan kiriye bo pêşxistina lêkolîna hûrbîn a civaknasî li ser Kurdistan, civakên Kurd, diyaspora û mijarên civakî yên berawirdkar. Gotarên akademîk ên orîjînal, gotarên lêkolînê, gotarên nirxandinê, rexneyên pirtûkan, raporên meydanî û şîroveyên akademîk bi Îngilîzî û Kurdî (hem Soranî hem Kurmancî) diweşîne.",
+      "Kovar şandinên ku orîjînaliya akademîk, girîngiya teorîk, hûrbîniya rêbazî, berpirsiyariya etîkî û beşdariyek zelal nîşan didin qebûl dike. Şandin divê rêbazên formatkirin û çavkaniyê yên kovarê bişopînin, tercîhî bi şêwaza APA.",
+      "Hemû destnivîsên şandinkirî pêşî ji aliyê Lijneya Edîtorî ve ji bo girîngî, kalîte û orîjînalîteyê têne nirxandin. Destnivîsên guncan ji bo nirxandina peer-review ji aliyê akademîsyenên jêhatî ve têne şandin.",
+      "Kurdistan Sociological Review pabend e bi azadiya akademîk, ne-partîzaniyê, cihêrengiya rewşenbîrî, akademiya pir-zimanî û hilberîna berpirsiyar a zanyariyê."
+    ],
+    "sectionsTitle": "Di nav kovarê de",
+    "sectionsLabel": "Beşên Kovarê",
+    "sections": [
+      { "n": "I", "title": "Gotaran", "body": "Beşdariyên empîrîk û teorîk ên orîjînal; 7,000 – 9,000 peyv bi çavkaniyan." },
+      { "n": "II", "title": "Notên lêkolînê", "body": "Lêkolînên empîrîk ên kurttir, notên meydanî, beşdariyên rêbazî; 3,000 – 5,000 peyv." },
+      { "n": "III", "title": "Gotarên nirxandinê", "body": "Têkiliyên rexnegirî bi koma nivîsan, nîqaşan û warên derketî re." },
+      { "n": "IV", "title": "Rexneyên pirtûkan", "body": "Rexneyên li ser pirtûkên akademîk ên nû li ser Kurdistan, civakên Kurd û civaknasiya berawirdkar." }
+    ],
+    "submissionTitle": "Şandin ji bo Kovarê",
+    "submissionBody": "Nivîskar têne vexwendin ku destnivîsên xwe bişînin info@kurdistansociology.com bi sernavê \"KSR Submission — [Author Last Name]\". Lêkolînên empîrîk divê pirsên lêkolînê, çarçoveya teorîk, rêbaz, çavkaniyên zaniyariyê, mijarên etîkî, encam û beşdariya analîtîk bi zelal rave bikin."
+  },
+  "members": {
+    "title": "Endamtî",
+    "lead": "KISA pêşwaziyê li akademîsyen, lêkolîner, xwendekar û saziyên ku pabend in bi civaknasiya Kurdistanê, civakên Kurd û diyasporayê dike.",
+    "categories": [
+      { "title": "Endamên Akademîk", "body": "Mamosteyên zanîngehê, lêkolîner û akademîsyenên serbixwe — neteweyî û navneteweyî." },
+      { "title": "Endamên Xwendekar", "body": "Lêkolînerên MA, PhD û post-doctoral ên ku di civaknasî û warên girêdayî de dixebitin." },
+      { "title": "Endamên Saziyî", "body": "Zanîngeh, navendên lêkolînê û rêxistinên akademîk ên ku bi KISA re hevkarî dikin." },
+      { "title": "Endamên Rûmetdar", "body": "Akademîsyenên navdar ên ku ji bo beşdariya wan di civaknasî, lêkolînên Kurdî û zanistên civakî de têne nasîn." }
+    ]
+  },
+  "bylaw": {
+    "title": "Bingehnameya KISA",
+    "subtitle": "Bingehnameya Birêvebirinê ya Komeleya Navneteweyî ya Civaknasiya Kurdistanê",
+    "lead": "Bingehnameyeke birêvebirinê ya sade, pîşeyî, ne-partîzan, serbixwe û akademîk ji bo KISA."
+  },
+  "resources": {
+    "title": "Çavkaniyên akademîk",
+    "lead": "Komeleyek hilbijartî ya rêxistin, navend, kovar, database û saziyên girêdayî bi endamên KISA û lêkolînerên civaknasiya Kurdî û berawirdkar.",
+    "groups": [
+      {
+        "title": "Komeleyên Civaknasî yên Navneteweyî",
+        "items": [
+          { "n": "International Sociological Association (ISA)", "u": "isa-sociology.org" },
+          { "n": "American Sociological Association (ASA)", "u": "asanet.org" },
+          { "n": "Canadian Sociological Association (CSA)", "u": "csa-scs.ca" },
+          { "n": "European Sociological Association (ESA)", "u": "europeansociology.org" },
+          { "n": "British Sociological Association (BSA)", "u": "britsoc.co.uk" }
+        ]
+      },
+      {
+        "title": "Navendên Akademîk ên Kurdî û Girêdayî Kurdistanê",
+        "items": [
+          { "n": "Centre for Kurdish Studies, Exeter", "u": "exeter.ac.uk/research/centres/kurdish" },
+          { "n": "Kurdish Studies Initiative, Toronto", "u": "nmckurdishstudies.ca" },
+          { "n": "Kurdish Institute of Paris", "u": "institutkurde.org" },
+          { "n": "Institute of Kurdish Studies, Berlin", "u": "ifkurds.de" },
+          { "n": "Kurdish Studies Center, Diyarbakır", "u": "ksc.org.tr" }
+        ]
+      },
+      {
+        "title": "Kovar û Weşan",
+        "items": [
+          { "n": "Kurdish Studies Journal", "u": "kurdishstudies.net" },
+          { "n": "American Sociological Review", "u": "journals.sagepub.com/home/asr" },
+          { "n": "Social Indicators Research", "u": "link.springer.com/journal/11205" },
+          { "n": "Current Sociology", "u": "journals.sagepub.com/home/csi" },
+          { "n": "International Sociology", "u": "journals.sagepub.com/home/iss" }
+        ]
+      },
+      {
+        "title": "Zanîngehên li Kurdistanê",
+        "items": [
+          { "n": "Salahaddin University-Erbil", "u": "su.edu.krd" },
+          { "n": "University of Duhok", "u": "uod.ac" },
+          { "n": "University of Sulaimani", "u": "univsul.edu.iq" },
+          { "n": "University of Zakho", "u": "web.uoz.edu.krd" },
+          { "n": "Soran University", "u": "soran.edu.iq" },
+          { "n": "Koya University", "u": "koyauniversity.org" },
+          { "n": "American University of Kurdistan", "u": "auk.edu.krd" },
+          { "n": "University of Kurdistan Hewlêr", "u": "ukh.edu.krd" }
+        ]
+      },
+      {
+        "title": "Pirtûkxane, Database û Amûrên Lêkolînê",
+        "items": [
+          { "n": "Google Scholar", "u": "scholar.google.com" },
+          { "n": "JSTOR", "u": "jstor.org" },
+          { "n": "WorldCat", "u": "worldcat.org" },
+          { "n": "ICPSR — Social Science Data Archive", "u": "icpsr.umich.edu" },
+          { "n": "Our World in Data", "u": "ourworldindata.org" },
+          { "n": "World Bank Data", "u": "data.worldbank.org" },
+          { "n": "UNDP Human Development Reports", "u": "hdr.undp.org" },
+          { "n": "OECD Better Life Index", "u": "oecdbetterlifeindex.org" }
+        ]
+      },
+      {
+        "title": "Saziyên Fikrî û Saziyên Polîtîkayê",
+        "items": [
+          { "n": "Middle East Research Institute (MERI), Erbil", "u": "meri-k.org" },
+          { "n": "Middle East Institute, Washington DC", "u": "mei.edu" },
+          { "n": "Social Science Research Council (SSRC)", "u": "ssrc.org" },
+          { "n": "Arab Council for the Social Sciences (ACSS)", "u": "theacss.org" },
+          { "n": "Kurdish Peace Institute", "u": "kurdishpeace.org" }
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galerî",
+    "lead": "Wêneyên ji civîn û çalakiyên KISA.",
+    "events": [
+      { "key": "2024", "title": "Civîna 2024", "description": "Civîna salane ya rêxistina KISA û endamên akademîk." },
+      { "key": "2023", "title": "Civîna Sermawez 2023", "description": "Civîna damezirandinê ya KISA li Toronto, Sermawez 2023." }
+    ]
+  },
+  "news": {
+    "title": "Nûçe û Daxuyaniyên",
+    "lead": "Nûveyên KISA — konferans, weşan, banga gotaran û nûçeyên komeleyê.",
+    "readMore": "Bêtir bixwîne",
+    "empty": "Hîn tu nivîsar tune.",
+    "bulletinsLabel": "Hejmar I · Daxuyanî"
+  },
+  "contact": {
+    "title": "Têkilî",
+    "lead": "Em bi xêr hatina pirsên ji endamên paşerojê, hevkar, rojnamevan û akademîsyenan dikin.",
+    "emailLabel": "E-name",
+    "email": "info@kurdistansociology.com",
+    "submissions": "Ji bo şandinên konferansê, sernavê bikin: \"KISA 2026 Conference Submission — [Author Last Name]\".",
+    "press": "Ji bo çapemenî û hevpeyvînan, ji kerema xwe peyva 'Press' di sernavê de binivîsin.",
+    "journal": "Ji bo şandinên kovarê: \"KSR Submission — [Author Last Name]\".",
+    "colophonTitle": "Kolofon",
+    "addressLabel": "Ofîsa fermî",
+    "address": ["9555 Yonge Street", "Unit 408", "Richmond Hill ON  L4C 9M5"],
+    "secretariat": [
+      { "k": "Sekreterya", "v": "Toronto · Hewlêr" },
+      { "k": "Damezirandî", "v": "2023" },
+      { "k": "Tomarkirin", "v": "Kanada · Herêma Kurdistanê" }
+    ]
+  },
+  "footer": {
+    "rights": "Hemû maf parastî ne.",
+    "tagline": "Komeleyeke serbixwe, akademîk û ne-partîzan. Pêşxistina civaknasiyê li ser Kurdistan, civakên Kurd û diyasporayê.",
+    "moreLinks": "Bêtir",
+    "est": "Damezirandî",
+    "programmes": "Bername",
+    "association": "Komele",
+    "secretariat": "Sekreterya",
+    "independent": "Serbixwe · Ne-partîzan · Bê-qezenc"
+  }
+}

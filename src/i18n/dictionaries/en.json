@@ -1,0 +1,358 @@
+{
+  "siteName": "KISA",
+  "siteNameFull": "Kurdistan International Sociological Association",
+  "tagline": "An independent, scholarly, non-partisan association advancing sociology on Kurdistan, Kurdish societies, and the diaspora.",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "governance": "Governance",
+    "conference": "Conference",
+    "journal": "Journal",
+    "members": "Members",
+    "gallery": "Gallery",
+    "news": "News",
+    "contact": "Contact",
+    "bylaw": "Bylaw",
+    "resources": "Links"
+  },
+  "ui": {
+    "viewPdf": "View PDF →",
+    "verified": "VERIFIED",
+    "officialDocument": "OFFICIAL DOCUMENT",
+    "readCfp": "Read the Call for Papers →",
+    "september": "DECEMBER",
+    "kurdistanIraq": "KURDISTAN REGION · IRAQ",
+    "twoDays": "2 DAYS",
+    "languagesBadge": "EN · CKB · KMR",
+    "firstIntlConf": "FIRST INTL. CONFERENCE",
+    "stream": "STREAM",
+    "photographs": "PHOTOGRAPHS",
+    "submitByEmail": "Submit by email →",
+    "submitProposal": "SUBMIT YOUR PROPOSAL"
+  },
+  "home": {
+    "heroEyebrow": "Founded 2023 · Independent · Non-partisan · Scholarly",
+    "heroTitle": "A scholarly home for sociologists of Kurdistan and the Kurdish diaspora.",
+    "heroLead": "KISA convenes sociologists, researchers, graduate students, and public intellectuals working on Kurdish society, Kurdistan, the diaspora, and comparative global sociology — through conferences, publications, mentorship, and international collaboration.",
+    "ctaConference": "2026 Conference",
+    "ctaJoin": "Become a member",
+    "heroMeta": ["VOL · I", "2026", "ERBIL · HAWLER"],
+    "ticker": [
+      "Volume I · Inaugural year",
+      "Erbil · December 2026",
+      "Founded Toronto · 2023",
+      "Registered in Canada & KRG",
+      "Peer-reviewed journal forthcoming",
+      "English · Sorani · Kurmancî"
+    ],
+    "highlightsTitle": "Activities of the Association",
+    "highlights": [
+      { "title": "Scholarly conferences", "body": "Annual and biannual conferences in Kurdistan and abroad, conducted in English, Sorani, and Kurmancî." },
+      { "title": "Peer-reviewed journal", "body": "Kurdistan Sociological Review — an annual peer-reviewed publication of KISA, in English and Kurdish." },
+      { "title": "International bridge", "body": "A professional space connecting Kurdish sociologists with regional and global scholarly communities." },
+      { "title": "Mentorship & training", "body": "Graduate student support, methodological workshops, and early-career research networks across Kurdistan and the diaspora." }
+    ],
+    "featureKicker": "Call for Papers",
+    "featureTitle": "First International KISA Conference",
+    "featureSubtitle": "Sociology, Society, and Social Change in Kurdistan",
+    "featureBody": "Two days bringing together Kurdish, Kurdistan-related, and international sociologists in Erbil / Hawler. English abstracts required; presentations in English, Sorani, or Kurmancî.",
+    "featureCta": "Call for Papers →",
+    "pillarsTitle": "Where the work happens",
+    "pillarsLead": "Six lines of inquiry shape the work of the association — drawn from the conference and journal calls for papers.",
+    "pillars": [
+      { "title": "Society, identity, change", "body": "Kurdish identity, nationalism, collective memory, family, language, generational change." },
+      { "title": "Quality of life", "body": "Well-being, life satisfaction, education, housing, and social indicators." },
+      { "title": "Rights & inequality", "body": "Ethnic inequality, gender, class, minority rights, citizenship, social justice." },
+      { "title": "Conflict & peacebuilding", "body": "Consequences of war, displacement, trauma, security, reconciliation." },
+      { "title": "Migration & diaspora", "body": "Refugee experiences, transnational networks, diaspora identity, integration." },
+      { "title": "Governance & civil society", "body": "Higher education, academic freedom, social movements, democratic transformation." }
+    ],
+    "newsTitle": "From the desk",
+    "newsCta": "All updates"
+  },
+  "about": {
+    "title": "About KISA",
+    "lead": "The Kurdistan International Sociological Association (KISA) is an independent, scholarly, non-partisan, and not-for-profit academic association.",
+    "intro": [
+      "KISA is dedicated to advancing sociology, social research, teaching, publication, professional exchange, and public understanding of society. It brings together sociologists, social researchers, academics, graduate students, public intellectuals, and research-oriented institutions interested in Kurdish society, Kurdistan, the Kurdish diaspora, the wider Middle East, and comparative global sociology.",
+      "One of KISA's central purposes is to build a strong scholarly bridge among Kurdish sociologists, Kurdistan-related researchers, and international scholars. KISA aims to become a central academic hub for all those engaged in Kurdish sociology — creating a professional space for collaboration, dialogue, comparative inquiry, mentorship, publication, teaching, and knowledge production.",
+      "As a scholarly association, KISA is committed to the highest standards of academic integrity, methodological rigour, intellectual openness, and ethical responsibility. KISA does not represent any political party, government, ideological faction, or partisan organization. Its purpose is academic, scientific, educational, and professional."
+    ],
+    "missionTitle": "Mission",
+    "mission": "To promote research, teaching, publication, professional exchange, and scholarly dialogue on Kurdistan, Kurdish societies, the Kurdish diaspora, and related global social issues — and to serve as an international scholarly hub where researchers, students, educators, and institutions can exchange ideas, develop research networks, organize conferences, publish scholarly work, and strengthen the global recognition of Kurdish and Kurdistan-related sociology.",
+    "visionTitle": "Vision",
+    "vision": "To become a leading international association for Kurdish, Kurdistan-related, and comparative sociology — contributing to a future in which Kurdish societies are studied not only through the lenses of crisis, conflict, or geopolitics, but also as producers of sociological theory, empirical knowledge, cultural analysis, social indicators, methodological innovation, and public scholarship.",
+    "valuesTitle": "Core Values",
+    "values": [
+      { "title": "Academic Freedom and Scientific Integrity", "body": "Open inquiry, critical debate, rigorous research, methodological transparency, ethical data collection, and responsible interpretation of evidence." },
+      { "title": "Independence and Non-Partisanship", "body": "Institutional independence from political parties, governments, armed groups, religious institutions, and partisan agendas." },
+      { "title": "Human Dignity, Equality, and Inclusion", "body": "Sociological inquiry that respects human dignity and examines inequality, exclusion, discrimination, marginalization, and social justice." },
+      { "title": "Public Sociology and Social Responsibility", "body": "Contributing to public understanding, policy discussions, and community dialogue while maintaining scholarly independence and ethical responsibility." },
+      { "title": "Bridge-Building and International Collaboration", "body": "Connecting Kurdish and Kurdistan-related sociologists across Kurdistan, the diaspora, and the wider international academy." }
+    ]
+  },
+  "governance": {
+    "title": "Governance and Leadership",
+    "lead": "KISA's governance structure ensures transparency, accountability, academic independence, and democratic participation. The Governance and Leadership Board includes four executive members and five Academic Advisory Board members, elected by the General Assembly.",
+    "executiveTitle": "Executive Board",
+    "vacanciesTitle": "Executive Board · Vacancies",
+    "advisoryTitle": "Academic Advisory Board",
+    "advisoryShort": "ACADEMIC ADVISORY",
+    "committeesTitle": "Committees",
+    "credentialsTitle": "Official Registration",
+    "credentialsLead": "KISA is officially registered as a not-for-profit association in Canada and recognized in the Kurdistan Region as a civic association. The documents below verify KISA's legal standing.",
+    "documentsTitle": "Incorporation filings",
+    "documents": [
+      { "title": "Articles of Incorporation", "subtitle": "Government of Canada · 2024", "file": "/docs/articles-of-incorporation.pdf" },
+      { "title": "Registered Office & Directors", "subtitle": "Initial registered office address and first board of directors", "file": "/docs/registered-office-and-directors.pdf" }
+    ],
+    "credentials": {
+      "krg": "Kurdistan Regional Government recognition — Ministry of Interior, Erbil Governorate (2024)",
+      "apostille": "Canadian Apostille — Department of Foreign Affairs, Ottawa (June 2024)",
+      "krgImg": "/credentials/krg-letter.jpg",
+      "apostilleImg": "/credentials/canada-apostille.jpg"
+    },
+    "committees": [
+      { "title": "Task Force Committee", "body": "Coordinates focused, time-bound initiatives of the Association — conference planning, journal launch, and special scholarly projects.", "seats": 3 },
+      { "title": "Ad Hoc Committee", "body": "Convened as needed to address specific matters and proposals referred by the Governance and Leadership Board.", "seats": 3 }
+    ],
+    "placeholder": {
+      "name": "To be announced",
+      "bio": "This position will be filled by election at the next General Assembly. Biographical details will be published here once appointed."
+    },
+    "president": {
+      "role": "President",
+      "name": "Fereydoon Rahmani, PhD",
+      "title": "Associate Professor of Sociology",
+      "affiliation": "Department of Equity Studies, York University, Toronto, Canada",
+      "email": "rahmanif@yorku.ca",
+      "img": "/president-rahmani.png",
+      "badge": "EST. 2023 · TORONTO",
+      "bio": "Fereydoon Rahmani is an Associate Professor of Sociology in the Department of Equity Studies at York University, Canada. He received his PhD and MA in Sociology from the University of Vienna. His teaching and research focus on sociology, human rights, quality of life, social indicators, spatial justice, ethnic inequality, social movements, and Middle Eastern societies. He previously served as Chair of the Department of Sociology at the University of Duhok. At York University, he has served as Undergraduate Program Director in the Department of Equity Studies, held executive and committee leadership roles within DES, and served on the Senate Review Committee on Tenure and Promotions. He also supervises graduate students at universities across Canada and in Kurdistan. Dr. Rahmani is the author of Rooftop Societies: The Middle East Paradox and introduced the concept of 'Rooftop Societies' to analyze socio-cultural and political incongruities in Middle Eastern societies."
+    },
+    "advisor": {
+      "role": "Executive Board",
+      "name": "Dr. Zubeida Salih Abdulkhaliq",
+      "title": "Head, Department of Sociology",
+      "affiliation": "University of Duhok, Kurdistan Region of Iraq",
+      "email": "zubeida.abdulkhaliq@uod.ac",
+      "img": "/zubeida-abdulkhaliq.jpg",
+      "bio": "Dr. Zubeida Salih Abdulkhaliq is a sociologist, researcher, academic, and journalist specializing in media studies, gender studies, social change, and community development in the Kurdistan Region of Iraq. She earned her PhD in Sociology from the École des Hautes Études en Sciences Sociales (EHESS) in Paris, France, with highest honours. She also holds a Master's degree and a D.E.R.A. diploma from Sorbonne Nouvelle University – Paris III. Dr. Abdulkhaliq currently serves as Head of the Department of Sociology at the University of Duhok. She previously served as Director of the Skills Development Center at Duhok Polytechnic University. In addition to her academic and administrative roles, she has contributed to several international research and development projects in collaboration with institutions in France, the United Kingdom, and the United States. Her scholarly work focuses on Kurdish media, democracy, identity, civil society, and social transformation. She has also organized and facilitated numerous academic workshops and professional training programs on research methodology, academic publishing, higher education development, social research, and community engagement. Alongside her academic career, Dr. Abdulkhaliq has been active in journalism since 1999, contributing to local and international journals and media platforms on issues related to society, media, democracy, religious equality, and women's rights. Dr. Abdulkhaliq is fluent in Kurdish, Persian, French, and English, and has a good command of Arabic."
+    },
+    "roles": {
+      "vicePresident": "Vice President",
+      "secretary": "Executive Secretary",
+      "treasurer": "Treasurer",
+      "advisor": "Academic Advisory Board Member"
+    }
+  },
+  "conference": {
+    "eyebrow": "Call for Papers · Erbil 2026",
+    "title": "First International KISA Conference",
+    "theme": "Kurdistan in Sociological Perspective: Social Transformation and Global Connections",
+    "lead": "KISA is pleased to announce the Call for Papers for its First International Conference, scheduled to take place during the first week of December 2026 in Erbil/Hawler, the capital of the Kurdistan Region of Iraq.",
+    "factsTitle": "At a glance",
+    "facts": [
+      { "k": "Dates", "v": "2–3 December 2026" },
+      { "k": "Location", "v": "Erbil / Hawler, Kurdistan Region of Iraq" },
+      { "k": "Duration", "v": "Two days" },
+      { "k": "Languages", "v": "English, Sorani Kurdish, Kurmanji Kurdish" },
+      { "k": "Abstracts", "v": "English (required for all submissions)" },
+      { "k": "Organized by", "v": "Kurdistan International Sociological Association (KISA)" }
+    ],
+    "overviewTitle": "Conference Overview",
+    "overview": "This two-day international conference will bring together Kurdish, Kurdistan-related, and international sociologists, social researchers, graduate students, academic leaders, higher education officials, university leadership, and invited dignitaries from the Kurdistan Regional Government. As a scholarly, non-partisan, and not-for-profit association, KISA seeks to build a strong bridge among Kurdish sociologists, researchers, and international scholars interested in Kurdish society, Kurdistan, the Kurdish diaspora, and comparative sociology. This inaugural conference aims to establish KISA as an academic hub for sociological research, dialogue, publication, and international collaboration.",
+    "themeBody": "The conference invites original research papers, theoretical reflections, methodological contributions, and comparative studies that examine social change in Kurdistan, Kurdish societies, the Kurdish diaspora, and related regional or global contexts. Contributions may be empirical, theoretical, comparative, historical, qualitative, quantitative, mixed-methods, or policy-oriented.",
+    "topicsTitle": "Suggested Topics",
+    "topics": [
+      { "title": "Kurdish Society, Identity, Nationalism, and Social Change", "body": "Social transformation, Kurdish identity, nationalism, collective memory, language, culture, family, youth, everyday life, community relations, generational change, and Kurdish national consciousness." },
+      { "title": "Quality of Life, Well-Being, and Social Indicators", "body": "Subjective well-being, life satisfaction, health, education, housing, public services, social development, and measurement of social conditions." },
+      { "title": "Human Rights, Inequality, and Social Justice", "body": "Ethnic inequality, gender, class, minority rights, discrimination, citizenship, social exclusion, and rights-based research." },
+      { "title": "War, Conflict, Security, and Peacebuilding", "body": "Consequences of war, political violence, displacement, militarization, trauma, security, reconciliation, and post-conflict reconstruction." },
+      { "title": "Migration, Diaspora, and Transnational Kurdish Communities", "body": "Displacement, refugee experiences, diaspora identity, integration, transnational networks, and Kurdish communities abroad." },
+      { "title": "Education, Governance, Civil Society, Development, and Democracy", "body": "Higher education, sociology teaching, academic freedom, civil society, social movements, urbanization, and democratic transformation." }
+    ],
+    "contributionsTitle": "Types of Contributions",
+    "contributions": [
+      "Individual paper presentations",
+      "Thematic panel proposals",
+      "Roundtable proposals",
+      "Book discussion proposals",
+      "Poster presentations",
+      "Graduate research project posters"
+    ],
+    "datesTitle": "Important Dates",
+    "dates": [
+      { "k": "Call for Papers Opens", "v": "1 September 2026" },
+      { "k": "Abstract Submission Deadline", "v": "1 October 2026" },
+      { "k": "Notification of Acceptance", "v": "1 November 2026" },
+      { "k": "Registration Opens", "v": "10 November 2026" },
+      { "k": "Conference Dates", "v": "2–3 December 2026" }
+    ],
+    "submissionTitle": "Submission Requirements",
+    "submissionLead": "Paper proposals should include:",
+    "submission": [
+      "Paper title",
+      "English abstract of approximately 250–300 words",
+      "Five keywords",
+      "Author's full name, academic title, institutional affiliation, country, and email address",
+      "Short biography of approximately 100 words",
+      "Preferred presentation language: English, Sorani Kurdish, or Kurmanji Kurdish",
+      "Type of contribution: individual paper, panel, roundtable, graduate student paper, or other format"
+    ],
+    "panelNote": "Panel proposals should include a panel title, a 300-word panel description, organizer information, and 3–5 proposed papers with English abstracts.",
+    "contactTitle": "Submission and Contact",
+    "contactBody": "Please submit abstracts and panel proposals to info@kurdistansociology.com with the subject line: \"KISA 2026 Conference Submission — [Author Last Name]\"."
+  },
+  "journal": {
+    "title": "Kurdistan Sociological Review",
+    "subtitle": "An Annual Scholarly Publication of KISA",
+    "lead": "Kurdistan Sociological Review is a research-based, scholarly, annual, peer-reviewed publication of the Kurdistan International Sociological Association.",
+    "coverLabel": "KURDISTAN SOCIOLOGICAL REVIEW",
+    "body": [
+      "The journal is dedicated to advancing rigorous sociological research on Kurdistan, Kurdish societies, the Kurdish diaspora, and comparative social issues. It publishes original academic articles, research papers, review essays, book reviews, field reports, and scholarly commentaries in English and Kurdish (both Sorani and Kurmanji). The journal is published in electronic and print formats, providing an international platform for sociologists, researchers, graduate students, and scholars.",
+      "The journal accepts submissions that demonstrate scholarly originality, theoretical relevance, methodological rigour, ethical responsibility, and a clear contribution to sociology or related social sciences. Submissions should follow the journal's formatting and citation guidelines, preferably APA style, and must include a clear title, abstract, keywords, author affiliation, and complete references.",
+      "All submitted manuscripts are first reviewed by the Editorial Board for relevance, quality, and originality. Suitable manuscripts are sent for peer review by qualified scholars. The Editorial Board reserves the right to accept, reject, request revisions, or decline submissions that do not meet scholarly or ethical standards.",
+      "Kurdistan Sociological Review is committed to academic freedom, non-partisanship, intellectual diversity, multilingual scholarship, and responsible knowledge production."
+    ],
+    "sectionsTitle": "Inside the journal",
+    "sectionsLabel": "Sections of the Review",
+    "sections": [
+      { "n": "I", "title": "Articles", "body": "Original empirical and theoretical contributions; 7,000–9,000 words including references." },
+      { "n": "II", "title": "Research notes", "body": "Shorter empirical studies, fieldwork notes, methodological contributions; 3,000–5,000 words." },
+      { "n": "III", "title": "Review essays", "body": "Critical engagements with bodies of literature, debates, and emerging fields." },
+      { "n": "IV", "title": "Book reviews", "body": "Reviews of recent scholarly books on Kurdistan, Kurdish societies, and comparative sociology." }
+    ],
+    "submissionTitle": "Submitting to the Review",
+    "submissionBody": "Authors are invited to submit manuscripts to info@kurdistansociology.com with the subject line \"KSR Submission — [Author Last Name]\". Empirical studies should clearly explain their research questions, theoretical framework, methodology, data sources, ethical considerations, findings, and analytical contribution."
+  },
+  "members": {
+    "title": "Membership",
+    "lead": "KISA welcomes scholars, researchers, students, and institutions committed to sociology on Kurdistan, Kurdish societies, the diaspora, and comparative social inquiry.",
+    "categories": [
+      { "title": "Academic Members", "body": "University faculty, researchers, lecturers, and independent scholars — national and international." },
+      { "title": "Graduate Student Members", "body": "MA, PhD, and postdoctoral researchers working in sociology and related disciplines." },
+      { "title": "Institutional Members", "body": "Universities, research centres, and scholarly organizations partnering with KISA." },
+      { "title": "Honorary Members", "body": "Distinguished scholars recognized for their contribution to sociology, Kurdish studies, social sciences, or public scholarship." }
+    ]
+  },
+  "bylaw": {
+    "title": "KISA Bylaw",
+    "subtitle": "Kurdistan International Sociological Association — Governance Bylaw",
+    "lead": "A simplified, professional, non-partisan, independent, and scholarly governance bylaw for KISA. Adopted by the members of KISA."
+  },
+  "resources": {
+    "title": "Scholarly resources",
+    "lead": "A curated set of associations, centres, journals, databases, and institutions relevant to KISA members and scholars working on Kurdish and comparative sociology.",
+    "groups": [
+      {
+        "title": "International Sociological Associations",
+        "items": [
+          { "n": "International Sociological Association (ISA)", "u": "isa-sociology.org" },
+          { "n": "American Sociological Association (ASA)", "u": "asanet.org" },
+          { "n": "Canadian Sociological Association (CSA)", "u": "csa-scs.ca" },
+          { "n": "European Sociological Association (ESA)", "u": "europeansociology.org" },
+          { "n": "British Sociological Association (BSA)", "u": "britsoc.co.uk" }
+        ]
+      },
+      {
+        "title": "Kurdish & Kurdistan-Related Academic Centres",
+        "items": [
+          { "n": "Centre for Kurdish Studies, Exeter", "u": "exeter.ac.uk/research/centres/kurdish" },
+          { "n": "Kurdish Studies Initiative, Toronto", "u": "nmckurdishstudies.ca" },
+          { "n": "Kurdish Institute of Paris", "u": "institutkurde.org" },
+          { "n": "Institute of Kurdish Studies, Berlin", "u": "ifkurds.de" },
+          { "n": "Kurdish Studies Center, Diyarbakır", "u": "ksc.org.tr" }
+        ]
+      },
+      {
+        "title": "Journals & Publications",
+        "items": [
+          { "n": "Kurdish Studies Journal", "u": "kurdishstudies.net" },
+          { "n": "American Sociological Review", "u": "journals.sagepub.com/home/asr" },
+          { "n": "Social Indicators Research", "u": "link.springer.com/journal/11205" },
+          { "n": "Current Sociology", "u": "journals.sagepub.com/home/csi" },
+          { "n": "International Sociology", "u": "journals.sagepub.com/home/iss" }
+        ]
+      },
+      {
+        "title": "Universities in Kurdistan",
+        "items": [
+          { "n": "Salahaddin University-Erbil", "u": "su.edu.krd" },
+          { "n": "University of Duhok", "u": "uod.ac" },
+          { "n": "University of Sulaimani", "u": "univsul.edu.iq" },
+          { "n": "University of Zakho", "u": "web.uoz.edu.krd" },
+          { "n": "Soran University", "u": "soran.edu.iq" },
+          { "n": "Koya University", "u": "koyauniversity.org" },
+          { "n": "American University of Kurdistan", "u": "auk.edu.krd" },
+          { "n": "University of Kurdistan Hewlêr", "u": "ukh.edu.krd" }
+        ]
+      },
+      {
+        "title": "Libraries, Databases & Research Tools",
+        "items": [
+          { "n": "Google Scholar", "u": "scholar.google.com" },
+          { "n": "JSTOR", "u": "jstor.org" },
+          { "n": "WorldCat", "u": "worldcat.org" },
+          { "n": "ICPSR — Social Science Data Archive", "u": "icpsr.umich.edu" },
+          { "n": "Our World in Data", "u": "ourworldindata.org" },
+          { "n": "World Bank Data", "u": "data.worldbank.org" },
+          { "n": "UNDP Human Development Reports", "u": "hdr.undp.org" },
+          { "n": "OECD Better Life Index", "u": "oecdbetterlifeindex.org" }
+        ]
+      },
+      {
+        "title": "Think Tanks & Policy Institutes",
+        "items": [
+          { "n": "Middle East Research Institute (MERI), Erbil", "u": "meri-k.org" },
+          { "n": "Middle East Institute, Washington DC", "u": "mei.edu" },
+          { "n": "Social Science Research Council (SSRC)", "u": "ssrc.org" },
+          { "n": "Arab Council for the Social Sciences (ACSS)", "u": "theacss.org" },
+          { "n": "Kurdish Peace Institute", "u": "kurdishpeace.org" }
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "lead": "Photographs from KISA gatherings and events.",
+    "events": [
+      { "key": "2024", "title": "2024 Gathering", "description": "Annual gathering of the KISA leadership and academic members." },
+      { "key": "2023", "title": "November 2023 Founding Gathering", "description": "The founding meeting of KISA in Toronto, November 2023." }
+    ]
+  },
+  "news": {
+    "title": "News & Announcements",
+    "lead": "Updates from KISA — conferences, publications, calls for papers, and association news.",
+    "readMore": "Read more",
+    "empty": "No posts yet.",
+    "bulletinsLabel": "Volume I · Bulletins"
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "We welcome inquiries from prospective members, partners, journalists, and scholars.",
+    "emailLabel": "Email",
+    "email": "info@kurdistansociology.com",
+    "submissions": "For conference submissions, use the subject line \"KISA 2026 Conference Submission — [Author Last Name]\".",
+    "press": "For press and interviews, please put 'Press' in the subject line.",
+    "journal": "For Kurdistan Sociological Review submissions, use \"KSR Submission — [Author Last Name]\".",
+    "colophonTitle": "Colophon",
+    "addressLabel": "Registered office",
+    "address": ["9555 Yonge Street", "Unit 408", "Richmond Hill ON  L4C 9M5"],
+    "secretariat": [
+      { "k": "Secretariat", "v": "Toronto · Erbil" },
+      { "k": "Founded", "v": "2023" },
+      { "k": "Registration", "v": "Canada · KRG" }
+    ]
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Independent, scholarly, non-partisan association advancing sociology on Kurdistan and Kurdish societies.",
+    "moreLinks": "More",
+    "est": "Est.",
+    "programmes": "Programmes",
+    "association": "Association",
+    "secretariat": "Secretariat",
+    "independent": "Independent · Non-partisan · Not-for-profit"
+  }
+}
