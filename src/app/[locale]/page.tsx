@@ -93,7 +93,6 @@ export default async function HomePage({
       {/* ---------- ACTIVITIES ---------- */}
       <section className="mx-auto max-w-[1440px] px-6 lg:px-8 py-24">
         <div className="rule-double mb-5" />
-        <div className="eyebrow mb-2">§ 01</div>
         <h2 className="font-serif text-[clamp(1.75rem,3.6vw,2.5rem)] font-medium tracking-tight mb-8">
           {h.highlightsTitle}
         </h2>
@@ -190,7 +189,6 @@ export default async function HomePage({
           <div className="rule-double mb-5" />
           <div className="flex items-end justify-between gap-6 mb-8 reverse-on-rtl">
             <div>
-              <div className="eyebrow mb-2">§ 04</div>
               <h2 className="font-serif text-[clamp(1.75rem,3.6vw,2.5rem)] font-medium tracking-tight">
                 {h.newsTitle}
               </h2>

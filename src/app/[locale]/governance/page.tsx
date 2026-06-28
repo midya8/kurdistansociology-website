@@ -31,7 +31,6 @@ export default async function GovernancePage({
     <>
       {/* Page header */}
       <header className="mx-auto max-w-[1240px] px-6 lg:px-8 pt-20 pb-12">
-        <div className="eyebrow mb-[18px]">§ {dict.nav.governance}</div>
         <h1 className="font-serif font-medium tracking-tight text-foreground text-[clamp(2.8rem,6vw,5rem)] leading-[1.02] max-w-[980px]">
           {g.title}
         </h1>

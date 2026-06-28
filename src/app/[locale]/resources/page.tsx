@@ -23,7 +23,6 @@ export default async function ResourcesPage({
     <>
       {/* Page header */}
       <header className="mx-auto max-w-[1240px] px-6 lg:px-8 pt-20 pb-14">
-        <div className="eyebrow mb-[18px]">§ {dict.nav.resources}</div>
         <h1 className="font-serif font-medium tracking-tight text-foreground text-[clamp(2.8rem,6vw,5rem)] leading-[1.02] max-w-[980px]">
           {r.title}
         </h1>
@@ -33,12 +32,9 @@ export default async function ResourcesPage({
       </header>
 
       <section className="mx-auto max-w-[1240px] px-6 lg:px-8 pb-24 flex flex-col gap-14">
-        {r.groups.map((g, gi) => (
+        {r.groups.map((g) => (
           <section key={g.title}>
             <div className="flex items-baseline gap-4 mb-5 reverse-on-rtl">
-              <div className="font-mono text-xs tracking-[0.18em] text-gold-deep">
-                §{String(gi + 1).padStart(2, "0")}
-              </div>
               <h2 className="font-serif text-[clamp(1.5rem,3vw,2rem)] font-medium tracking-tight">
                 {g.title}
               </h2>

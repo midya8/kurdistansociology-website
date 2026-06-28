@@ -102,7 +102,6 @@ export default async function ConferencePage({
       {/* Topics */}
       <section className="mx-auto max-w-[1240px] px-6 lg:px-8 pb-20">
         <hr className="rule-double mb-5" />
-        <div className="eyebrow mb-2">§ 01</div>
         <h2 className="font-serif text-[clamp(1.75rem,3.6vw,2.5rem)] font-medium tracking-tight mb-8">
           {c.topicsTitle}
         </h2>
@@ -125,7 +124,6 @@ export default async function ConferencePage({
       <section className="mx-auto max-w-[1240px] px-6 lg:px-8 pb-20 grid gap-14 md:grid-cols-2">
         <div>
           <hr className="rule-double mb-5" />
-          <div className="eyebrow mb-2">§ 02</div>
           <h2 className="font-serif text-[clamp(1.5rem,3vw,2.1rem)] font-medium tracking-tight mb-6">
             {c.contributionsTitle}
           </h2>
@@ -145,7 +143,6 @@ export default async function ConferencePage({
         </div>
         <div>
           <hr className="rule-double mb-5" />
-          <div className="eyebrow mb-2">§ 03</div>
           <h2 className="font-serif text-[clamp(1.5rem,3vw,2.1rem)] font-medium tracking-tight mb-6">
             {c.datesTitle}
           </h2>
@@ -168,7 +165,6 @@ export default async function ConferencePage({
       {/* Submission requirements */}
       <section className="mx-auto max-w-[760px] px-6 lg:px-8 pb-16">
         <hr className="rule-double mb-5" />
-        <div className="eyebrow mb-2">§ 04</div>
         <h2 className="font-serif text-[clamp(1.5rem,3vw,2.1rem)] font-medium tracking-tight mb-4">
           {c.submissionTitle}
         </h2>
