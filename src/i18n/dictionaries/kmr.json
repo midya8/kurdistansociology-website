@@ -151,9 +151,10 @@
     "title": "Konferansa Yekem a Navneteweyî ya KISA",
     "theme": "Kurdistan di Perspektîfa Civaknasî de: Veguherîna Civakî & Girêdanên Cîhanî",
     "lead": "KISA bi xemgîn banga gotaran ji bo Konferansa Yekem a Navneteweyî ya xwe ragihand, ku dê di hefteya yekem a Kanûna Yekem 2026'an de li Hewlêrê, paytexta Herêma Kurdistana Iraqê, bê li dar xistin.",
+    "dateShort": "Hefteya yekem a Kanûna Yekem 2026",
     "factsTitle": "Bi kurtî",
     "facts": [
-      { "k": "Dîrok", "v": "2 – 3 Kanûna Yekem 2026" },
+      { "k": "Dîrok", "v": "Hefteya yekem a Kanûna Yekem 2026" },
       { "k": "Cih", "v": "Hewlêr · Herêma Kurdistanê" },
       { "k": "Dem", "v": "Du roj" },
       { "k": "Ziman", "v": "Îngilîzî, Soranî, Kurmancî" },
@@ -187,7 +188,7 @@
       { "k": "Dawiya Şandina Kurtebêjan", "v": "1 Cotmeh 2026" },
       { "k": "Ragihandina Qebûlkirinê", "v": "1 Mijdar 2026" },
       { "k": "Vekirina Tomarkirinê", "v": "10 Mijdar 2026" },
-      { "k": "Dîrokên Konferansê", "v": "2 – 3 Kanûna Yekem 2026" }
+      { "k": "Dîrokên Konferansê", "v": "Hefteya yekem a Kanûna Yekem 2026" }
     ],
     "submissionTitle": "Pêwîstiyên Şandinê",
     "submissionLead": "Pêşniyarên gotaran divê van tiştan hebin:",

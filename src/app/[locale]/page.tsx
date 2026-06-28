@@ -59,7 +59,7 @@ export default async function HomePage({
                 src="/logo.png"
                 alt="KISA medallion"
                 fill
-                className="object-contain relative drop-shadow-xl"
+                className="object-cover rounded-full relative drop-shadow-xl ring-1 ring-gold-soft/40"
                 priority
                 sizes="(max-width: 1024px) 70vw, 420px"
               />
@@ -165,16 +165,14 @@ export default async function HomePage({
               <span>№ I</span>
             </div>
             <div className="relative text-center">
-              <div className="font-mono text-sm tracking-[0.32em] text-gold">
-                {dict.ui.september}
+              <div className="font-serif text-[clamp(1.6rem,3vw,2.25rem)] leading-snug">
+                {dict.conference.dateShort}
               </div>
-              <div className="font-serif font-light text-[clamp(5rem,11vw,10.5rem)] leading-[0.9] my-2 tracking-tight">
-                02·03
-              </div>
-              <div className="font-mono text-sm tracking-[0.32em] text-gold">2026</div>
               <div className="mx-auto my-6 h-px w-16 bg-gold" />
-              <div className="font-serif text-2xl tracking-wide">Erbil · Hawler</div>
-              <div className="font-mono text-[11px] tracking-[0.2em] text-[rgb(246_240_226)]/60 mt-1.5">
+              <div className="font-serif text-[clamp(1.6rem,3vw,2.25rem)] leading-snug tracking-wide">
+                Erbil · Hawler
+              </div>
+              <div className="font-mono text-[11px] tracking-[0.2em] text-[rgb(246_240_226)]/60 mt-2">
                 {dict.ui.kurdistanIraq}
               </div>
             </div>

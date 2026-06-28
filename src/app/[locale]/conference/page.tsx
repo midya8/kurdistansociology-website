@@ -53,16 +53,16 @@ export default async function ConferencePage({
             </p>
           </div>
           {/* Compact date plate */}
-          <div className="border border-gold/35 p-7 w-[260px] text-center shrink-0">
-            <div className="font-mono text-xs tracking-[0.28em] text-gold">
-              {dict.ui.september}
+          <div className="border border-gold/35 px-7 py-9 w-[280px] text-center shrink-0">
+            <div className="font-mono text-xs tracking-[0.28em] text-gold mb-4">
+              {dict.ui.firstIntlConf}
             </div>
-            <div className="font-serif font-light text-[7rem] leading-[0.9] my-2 tracking-tight">
-              02·03
-            </div>
-            <div className="font-mono text-xs tracking-[0.28em] text-gold">2026</div>
+            <div className="font-serif text-2xl leading-snug">{c.dateShort}</div>
             <div className="mx-auto my-5 h-px w-10 bg-gold" />
-            <div className="font-serif text-2xl">Erbil · Hawler</div>
+            <div className="font-serif text-2xl leading-snug">Erbil · Hawler</div>
+            <div className="font-mono text-[11px] tracking-[0.2em] text-gold mt-2">
+              {dict.ui.kurdistanIraq}
+            </div>
           </div>
         </div>
       </section>
