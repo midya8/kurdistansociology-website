@@ -52,6 +52,14 @@ export default async function GovernancePage({
         <ProfileCard p={advisor} badge={advisor.role.toUpperCase()} objectTop />
       </section>
 
+      {/* Executive Board — additional members */}
+      {g.board.map((m) => (
+        <section key={m.name} className="mx-auto max-w-[1240px] px-6 lg:px-8 pb-[72px]">
+          <div className="smallcaps mb-6">{m.role}</div>
+          <ProfileCard p={m} badge={m.role.toUpperCase()} objectTop />
+        </section>
+      ))}
+
       {/* Executive vacancies */}
       <section className="mx-auto max-w-[1240px] px-6 lg:px-8 pb-[72px]">
         <div className="smallcaps mb-[18px]">{g.vacanciesTitle}</div>
