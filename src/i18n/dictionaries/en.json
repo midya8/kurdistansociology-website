@@ -250,11 +250,34 @@
   "members": {
     "title": "Membership",
     "lead": "KISA welcomes scholars, researchers, students, and institutions committed to sociology on Kurdistan, Kurdish societies, the diaspora, and comparative social inquiry.",
+    "viewAll": "View members →",
     "categories": [
-      { "title": "Academic Members", "body": "University faculty, researchers, lecturers, and independent scholars — national and international." },
-      { "title": "Graduate Student Members", "body": "MA, PhD, and postdoctoral researchers working in sociology and related disciplines." },
-      { "title": "Institutional Members", "body": "Universities, research centres, and scholarly organizations partnering with KISA." },
-      { "title": "Honorary Members", "body": "Distinguished scholars recognized for their contribution to sociology, Kurdish studies, social sciences, or public scholarship." }
+      { "title": "Academic Members", "body": "University faculty, researchers, lecturers, and independent scholars — national and international.", "slug": "" },
+      { "title": "Graduate Student Members", "body": "MA, PhD, and postdoctoral researchers working in sociology and related disciplines.", "slug": "graduate-students" },
+      { "title": "Institutional Members", "body": "Universities, research centres, and scholarly organizations partnering with KISA.", "slug": "" },
+      { "title": "Honorary Members", "body": "Distinguished scholars recognized for their contribution to sociology, Kurdish studies, social sciences, or public scholarship.", "slug": "" }
+    ],
+    "gradTitle": "Graduate Student Members",
+    "gradLead": "MA, PhD, and postdoctoral researchers working in sociology and related disciplines across Kurdistan and the diaspora.",
+    "gradMembers": [
+      {
+        "role": "Graduate Student Member",
+        "name": "Athina Akram Ibrahim",
+        "title": "Assistant Lecturer, Department of Sociology",
+        "affiliation": "University of Duhok, Kurdistan Region of Iraq",
+        "email": "athina.ibrahim@uod.ac",
+        "img": "/athina-ibrahim.jpg",
+        "bio": "Athina Akram Ibrahim is a sociologist, researcher, and humanitarian professional specializing in protection and gender-based violence (GBV). She holds a master's degree in general sociology and a bachelor's degree in sociology from the University of Duhok. After graduating from the Department of Sociology in the 2014–2015 academic year, she joined the University of Duhok as a permanent Assistant Researcher in 2017, and currently serves as an Assistant Lecturer and academic staff member in the Department of Sociology, where she contributes to teaching, research, and higher education. Since 2016, she has also worked in the humanitarian sector with several local and international organizations, including UNHCR, UNFPA, Harikar NGO, the Directorate of Labour and Social Affairs (DOLSA), and the Ministry of Labour and Social Affairs (MOLSA), acquiring more than seven years of professional experience in humanitarian assistance, protection, and GBV-related programming. Athina is recognized as an innovative, proactive, and community-oriented professional, committed to sharing knowledge, supporting young people, and contributing to the development of local communities through academic and humanitarian initiatives. She is fluent in Kurdish, English, and Greek and has a good command of Arabic."
+      },
+      {
+        "role": "Graduate Student Member",
+        "name": "Vajeen Tayeb",
+        "title": "Lecturer, Department of Sociology",
+        "affiliation": "University of Duhok, Kurdistan Region of Iraq",
+        "email": "vajeen.shawkat@gmail.com",
+        "img": "/vajeen-tayeb.jpg",
+        "bio": "Vajeen Tayeb is a sociologist, university lecturer, and humanitarian and development professional with more than ten years of experience in protection, gender equality, peacebuilding, governance, organizational development, and project management in Iraq. She holds a bachelor's degree in sociology from the University of Duhok and a master's degree in international cooperation and development from the University of Pavia, Italy. She currently serves as a lecturer in the Sociology Department at the University of Duhok, teaching courses in anthropology, social policy and development, and environmental sociology, while contributing to academic research, departmental activities, and the implementation of the Bologna Process. Most recently, she worked with People in Need as a Gender and Governance Specialist and Women's Advisory Consultant, supporting women's participation, civil society capacity-building, and gender-responsive and conflict-sensitive governance. Previously, as Protection Program Manager with Mission East, she managed nine projects across Kirkuk and Sinjar, delivering psychosocial support, case management, interim reparations, and medical, legal, and educational assistance to vulnerable communities and survivors of conflict. She also contributed to organizational strategy, staff training, donor relations, proposal development, budgeting, and coordination with national protection, child protection, and gender-based violence networks. As a co-founder and former Head of Programs at Humanity Organization for Civil Activities, she helped develop the organization's programs, human-resource systems, donor partnerships, and child-protection and peacebuilding initiatives across Duhok and Ninewa. Her professional strengths include program design, fundraising, research, staff development, stakeholder engagement, and institutional capacity-building. She is fluent in Kurdish, English, and Arabic."
+      }
     ]
   },
   "bylaw": {

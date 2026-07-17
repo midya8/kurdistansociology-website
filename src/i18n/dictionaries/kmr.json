@@ -250,11 +250,34 @@
   "members": {
     "title": "Endamtî",
     "lead": "KISA pêşwaziyê li akademîsyen, lêkolîner, xwendekar û saziyên ku pabend in bi civaknasiya Kurdistanê, civakên Kurd û diyasporayê dike.",
+    "viewAll": "Endaman bibîne →",
     "categories": [
-      { "title": "Endamên Akademîk", "body": "Mamosteyên zanîngehê, lêkolîner û akademîsyenên serbixwe — neteweyî û navneteweyî." },
-      { "title": "Endamên Xwendekar", "body": "Lêkolînerên MA, PhD û post-doctoral ên ku di civaknasî û warên girêdayî de dixebitin." },
-      { "title": "Endamên Saziyî", "body": "Zanîngeh, navendên lêkolînê û rêxistinên akademîk ên ku bi KISA re hevkarî dikin." },
-      { "title": "Endamên Rûmetdar", "body": "Akademîsyenên navdar ên ku ji bo beşdariya wan di civaknasî, lêkolînên Kurdî û zanistên civakî de têne nasîn." }
+      { "title": "Endamên Akademîk", "body": "Mamosteyên zanîngehê, lêkolîner û akademîsyenên serbixwe — neteweyî û navneteweyî.", "slug": "" },
+      { "title": "Endamên Xwendekar", "body": "Lêkolînerên MA, PhD û post-doctoral ên ku di civaknasî û warên girêdayî de dixebitin.", "slug": "graduate-students" },
+      { "title": "Endamên Saziyî", "body": "Zanîngeh, navendên lêkolînê û rêxistinên akademîk ên ku bi KISA re hevkarî dikin.", "slug": "" },
+      { "title": "Endamên Rûmetdar", "body": "Akademîsyenên navdar ên ku ji bo beşdariya wan di civaknasî, lêkolînên Kurdî û zanistên civakî de têne nasîn.", "slug": "" }
+    ],
+    "gradTitle": "Endamên Xwendekar",
+    "gradLead": "Lêkolînerên MA, PhD û post-doctoral ên ku di civaknasî û warên girêdayî de dixebitin li Kurdistan û diyasporayê.",
+    "gradMembers": [
+      {
+        "role": "Endama Xwendekar",
+        "name": "Athina Akram Ibrahim",
+        "title": "Mamosteya Alîkar, Beşa Civaknasiyê",
+        "affiliation": "Zanîngeha Duhokê, Herêma Kurdistana Iraqê",
+        "email": "athina.ibrahim@uod.ac",
+        "img": "/athina-ibrahim.jpg",
+        "bio": "Athina Akram Ibrahim civaknas, lêkolîner û pisporeke mirovî ye ku di parastin û tundiya li ser bingeha zayendê (GBV) de pispor e. Xwediya masterê di civaknasiya giştî de û bekaloriyosê di civaknasiyê de ye ji Zanîngeha Duhokê. Piştî mezûnbûna ji Beşa Civaknasiyê di sala akademîk a 2014–2015'an de, di sala 2017'an de wek Alîkara Lêkolîner a daîmî tevlî Zanîngeha Duhokê bû û niha wek Mamosteya Alîkar û endama kadroya akademîk di Beşa Civaknasiyê de xizmetê dike, ku tê de beşdarî hînkirin, lêkolîn û xwendina bilind dibe. Ji sala 2016'an ve herwiha di sektora mirovî de bi gelek rêxistinên herêmî û navneteweyî re xebitiye, di nav de UNHCR, UNFPA, rêxistina Harikar, Rêveberiya Kar û Karên Civakî (DOLSA) û Wezareta Kar û Karên Civakî (MOLSA), û zêdetirî heft salan ezmûna pîşeyî di alîkariya mirovî, parastin û bernameyên girêdayî GBV de bi dest xistiye. Athina wek pisporeke nûjen, pêşeng û civak-arasteyî tê naskirin û pabend e bi parvekirina zanînê, piştgiriya ciwanan û beşdariya di pêşxistina civakên herêmî de bi rêya însiyatîfên akademîk û mirovî. Bi Kurdî, Îngilîzî û Yewnanî herikî ye û Erebiya wê baş e."
+      },
+      {
+        "role": "Endama Xwendekar",
+        "name": "Vajeen Tayeb",
+        "title": "Mamoste, Beşa Civaknasiyê",
+        "affiliation": "Zanîngeha Duhokê, Herêma Kurdistana Iraqê",
+        "email": "vajeen.shawkat@gmail.com",
+        "img": "/vajeen-tayeb.jpg",
+        "bio": "Vajeen Tayeb civaknas, mamosteya zanîngehê û pisporeke mirovî û pêşxistinê ye ku zêdetirî deh salan ezmûna wê heye di parastin, wekheviya zayendî, avakirina aştiyê, rêveberî, pêşxistina rêxistinî û rêvebirina projeyan de li Iraqê. Xwediya bekaloriyosê di civaknasiyê de ji Zanîngeha Duhokê û masterê di hevkarî û pêşxistina navneteweyî de ji Zanîngeha Pavia ya Îtalyayê ye. Niha wek mamoste di Beşa Civaknasiyê ya Zanîngeha Duhokê de xizmetê dike û dersên antropolojî, polîtîkaya civakî û pêşxistin û civaknasiya jîngehê dide, digel beşdariya di lêkolîna akademîk, çalakiyên beşê û pêkanîna Pêvajoya Bolonyayê de. Herî dawî, bi People in Need re wek Pispora Zayend û Rêveberiyê û Şêwirmenda Jinan xebitî, ji bo piştgiriya beşdariya jinan, xurtkirina kapasîteya civaka sivîl û rêveberiya zayend-bersivdar û hestiyar-bi-pevçûnê. Berê, wek Rêvebira Bernameya Parastinê bi Mission East re, neh projeyan li Kerkûk û Şingalê birêve bir, bi pêşkêşkirina piştgiriya derûnî-civakî, rêvebirina dozan, tazmînatên demkî û alîkariya bijîşkî, hiqûqî û perwerdeyî ji bo civakên hestiyar û rizgarbûyên pevçûnê. Herwiha beşdarî stratejiya rêxistinî, rahênana karmendan, têkiliyên bexşeran, amadekirina pêşniyaran, budceyê û hevrêziya bi torên neteweyî yên parastinê, parastina zarokan û tundiya zayendî re bû. Wek hev-damezrîner û Seroka Bernameyan a berê li rêxistina Humanity ji bo Çalakiyên Sivîl, alîkarî kir di pêşxistina bername, sîstemên çavkaniyên mirovî, hevkariyên bexşeran û însiyatîfên parastina zarokan û avakirina aştiyê de li Duhok û Neynewayê. Hêzên wê yên pîşeyî sêwirana bernameyan, berhevkirina fonan, lêkolîn, pêşxistina karmendan, têkiliya aliyên eleqedar û xurtkirina kapasîteya sazî ne. Bi Kurdî, Îngilîzî û Erebî herikî ye."
+      }
     ]
   },
   "bylaw": {

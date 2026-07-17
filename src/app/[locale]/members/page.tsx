@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { getDictionary } from "@/i18n/getDictionary";
 
 export async function generateMetadata({
@@ -34,13 +35,33 @@ export default async function MembersPage({
       {/* Category cards — no numbers, no Apply CTA */}
       <section className="mx-auto max-w-[1240px] px-6 lg:px-8 pb-24">
         <div className="grid sm:grid-cols-2 border-t border-s border-border">
-          {m.categories.map((c) => (
-            <article key={c.title} className="p-10 border-b border-e border-border bg-surface">
-              <div className="w-7 h-0.5 bg-gold mb-4" />
-              <h3 className="mb-2.5 font-serif text-2xl font-medium">{c.title}</h3>
-              <p className="text-lg leading-relaxed text-foreground-soft">{c.body}</p>
-            </article>
-          ))}
+          {m.categories.map((c) => {
+            const inner = (
+              <>
+                <div className="w-7 h-0.5 bg-gold mb-4" />
+                <h3 className="mb-2.5 font-serif text-2xl font-medium">{c.title}</h3>
+                <p className="text-lg leading-relaxed text-foreground-soft">{c.body}</p>
+                {c.slug && (
+                  <div className="mt-5 font-mono text-xs tracking-[0.12em] text-gold-deep">
+                    {m.viewAll}
+                  </div>
+                )}
+              </>
+            );
+            return c.slug ? (
+              <Link
+                key={c.title}
+                href={`/${locale}/members/${c.slug}`}
+                className="block p-10 border-b border-e border-border bg-surface hover:bg-background transition-colors"
+              >
+                {inner}
+              </Link>
+            ) : (
+              <article key={c.title} className="p-10 border-b border-e border-border bg-surface">
+                {inner}
+              </article>
+            );
+          })}
         </div>
       </section>
     </>
