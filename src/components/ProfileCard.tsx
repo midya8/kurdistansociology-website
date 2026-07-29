@@ -6,6 +6,7 @@ export type Profile = {
   title: string;
   affiliation: string;
   email: string;
+  email2?: string;
   img: string;
   bio: string;
 };
@@ -49,12 +50,27 @@ export function ProfileCard({
         </h2>
         <p className="font-serif text-xl text-foreground-soft italic">{p.title}</p>
         <p className="mt-1 text-foreground-soft">{p.affiliation}</p>
-        <a
-          href={`mailto:${p.email}`}
-          className="inline-block mt-3 font-mono text-sm text-accent underline underline-offset-4 decoration-gold-soft/60"
-        >
-          {p.email}
-        </a>
+        <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-1 reverse-on-rtl">
+          <a
+            href={`mailto:${p.email}`}
+            className="font-mono text-sm text-accent underline underline-offset-4 decoration-gold-soft/60"
+          >
+            {p.email}
+          </a>
+          {p.email2 && (
+            <>
+              <span className="text-border-soft" aria-hidden="true">
+                ·
+              </span>
+              <a
+                href={`mailto:${p.email2}`}
+                className="font-mono text-sm text-accent underline underline-offset-4 decoration-gold-soft/60"
+              >
+                {p.email2}
+              </a>
+            </>
+          )}
+        </div>
         <hr className="rule my-6" />
         <p className="text-lg leading-[1.7] text-foreground-soft">{p.bio}</p>
       </div>
