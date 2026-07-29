@@ -13,7 +13,9 @@
     "news": "Nûçe",
     "contact": "Têkilî",
     "bylaw": "Bingehname",
-    "resources": "Girêdan"
+    "resources": "Girêdan",
+    "boardInternational": "Lijneya Navneteweyî",
+    "boardKurdistan": "Lijneya Herêma Kurdistanê"
   },
   "ui": {
     "viewPdf": "PDF bibîne →",
@@ -94,6 +96,11 @@
   "governance": {
     "title": "Birêvebirin û Serokatî",
     "lead": "Strukturê birêvebirinê yê KISA şefafiyê, berpirsiyariyê, serbixwebûna akademîk û beşdariya demokratîk piştrast dike. Lijneya Birêvebirin û Serokatiyê ji çar endamên rêveber û pênc endamên Lijneya Şêwirmendiya Akademîk pêk tê.",
+    "internationalTitle": "Lijneya Navneteweyî",
+    "internationalLead": "Serokatiya navneteweyî ya komeleyê — Serok, Lijneya Rêveber, Lijneya Şêwirmendiya Akademîk, lijne û tomarkirina fermî ya KISA.",
+    "kurdistanTitle": "Lijneya Herêma Kurdistanê",
+    "kurdistanLead": "Endamên lijneyê yên li Herêma Kurdistana Iraqê, ku karê akademîk û saziyî yê komeleyê li herêmê birêve dibin.",
+    "boardsTitle": "Lijne",
     "executiveTitle": "Lijneya Rêveber",
     "vacanciesTitle": "Lijneya Rêveber · Pozîsyonên Vala",
     "advisoryTitle": "Lijneya Şêwirmendiya Akademîk",

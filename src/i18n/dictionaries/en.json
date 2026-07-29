@@ -13,7 +13,9 @@
     "news": "News",
     "contact": "Contact",
     "bylaw": "Bylaw",
-    "resources": "Links"
+    "resources": "Links",
+    "boardInternational": "International Board",
+    "boardKurdistan": "Kurdistan Region Board"
   },
   "ui": {
     "viewPdf": "View PDF →",
@@ -94,6 +96,11 @@
   "governance": {
     "title": "Governance and Leadership",
     "lead": "KISA's governance structure ensures transparency, accountability, academic independence, and democratic participation. The Governance and Leadership Board includes four executive members and five Academic Advisory Board members, elected by the General Assembly.",
+    "internationalTitle": "International Board",
+    "internationalLead": "The international leadership of the association — the President, Executive Board, Academic Advisory Board, committees, and KISA's official registration.",
+    "kurdistanTitle": "Kurdistan Region Board",
+    "kurdistanLead": "Board members based in the Kurdistan Region of Iraq, leading the association's academic and institutional work in the region.",
+    "boardsTitle": "Boards",
     "executiveTitle": "Executive Board",
     "vacanciesTitle": "Executive Board · Vacancies",
     "advisoryTitle": "Academic Advisory Board",
