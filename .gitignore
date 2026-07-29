@@ -43,3 +43,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Standalone Zeus ARPG game — separate project, not part of this site
+zeus-arpg.html
