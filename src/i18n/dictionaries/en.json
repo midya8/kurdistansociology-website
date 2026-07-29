@@ -252,10 +252,23 @@
     "lead": "KISA welcomes scholars, researchers, students, and institutions committed to sociology on Kurdistan, Kurdish societies, the diaspora, and comparative social inquiry.",
     "viewAll": "View members →",
     "categories": [
-      { "title": "Academic Members", "body": "University faculty, researchers, lecturers, and independent scholars — national and international.", "slug": "" },
+      { "title": "Academic Members", "body": "University faculty, researchers, lecturers, and independent scholars — national and international.", "slug": "academic" },
       { "title": "Graduate Student Members", "body": "MA, PhD, and postdoctoral researchers working in sociology and related disciplines.", "slug": "graduate-students" },
       { "title": "Institutional Members", "body": "Universities, research centres, and scholarly organizations partnering with KISA.", "slug": "" },
       { "title": "Honorary Members", "body": "Distinguished scholars recognized for their contribution to sociology, Kurdish studies, social sciences, or public scholarship.", "slug": "" }
+    ],
+    "academicTitle": "Academic Members",
+    "academicLead": "University faculty, researchers, and lecturers advancing sociology across Kurdistan, Kurdish societies, and comparative social inquiry.",
+    "academicMembers": [
+      {
+        "role": "Academic Member",
+        "name": "Dr. Shahlaa W. Jabbar",
+        "title": "Assistant Professor, Department of Sociology, College of Arts",
+        "affiliation": "Salahaddin University–Erbil, Kurdistan Region of Iraq",
+        "email": "shahlaa.jabbar@su.edu.krd",
+        "img": "/shahlaa-jabbar.jpg",
+        "bio": "Assistant Professor Dr. Shahlaa W. Jabbar is a sociologist and faculty member in the Department of Sociology, College of Arts, Salahaddin University–Erbil. She has served in the department since 2021 and currently holds the academic rank of Assistant Professor. Dr. Jabbar began her professional career in the healthcare sector after graduating from the Nursing Department of a technical institute in 1999. From 1999 to 2007, she worked at a health centre in Erbil, where she gained extensive practical experience in healthcare delivery and community service. She subsequently pursued higher education in the social sciences, earning a bachelor's degree from the College of Arts at Salahaddin University–Erbil in 2006, followed by a master's degree in Sociology from the same institution in 2009. Her combined background in nursing, healthcare, and sociology has shaped her interdisciplinary academic interests, particularly in the areas of society, health, community welfare, and contemporary social issues. Dr. Jabbar has authored and co-authored several research papers and scholarly manuscripts published in local and international academic journals. Through her teaching and research, she contributes to the advancement of sociological knowledge and to the study of health-related and broader social challenges in the Kurdistan Region and beyond."
+      }
     ],
     "gradTitle": "Graduate Student Members",
     "gradLead": "MA, PhD, and postdoctoral researchers working in sociology and related disciplines across Kurdistan and the diaspora.",
