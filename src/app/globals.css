@@ -83,6 +83,10 @@ body::before {
 }
 /* keep real content above the grain */
 body > * { position: relative; z-index: 1; }
+/* the header (and its nav dropdowns) must sit above the page content below it;
+   this unlayered rule also restores the intended sticky header, which the
+   `body > *` rule above was overriding Tailwind's utilities for */
+body > header { position: sticky; top: 0; z-index: 40; }
 
 ::selection { background: rgb(var(--accent)); color: rgb(var(--accent-foreground)); }
 a { color: inherit; }
@@ -149,18 +153,20 @@ a { color: inherit; }
 .nav-link:hover::after, .nav-link[aria-current="page"]::after { transform: scaleX(1); }
 html[dir="rtl"] .nav-link::after { transform-origin: right; }
 
-/* ---------- Nav dropdown (hover + keyboard) ---------- */
+/* ---------- Nav dropdown (hover + keyboard) ----------
+   No transform offset (a moving panel opens a dead gap between the trigger
+   and menu). Toggle pointer-events, not visibility, so the panel — and its
+   transparent top-padding bridge — catches the cursor the instant the group
+   is hovered, even while the opacity is still fading in. */
 .nav-dropdown {
-  visibility: hidden;
   opacity: 0;
-  transform: translateY(4px);
-  transition: opacity 0.15s, transform 0.15s, visibility 0.15s;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
 }
 .nav-dropdown-group:hover > .nav-dropdown,
 .nav-dropdown-group:focus-within > .nav-dropdown {
-  visibility: visible;
   opacity: 1;
-  transform: translateY(0);
+  pointer-events: auto;
 }
 
 /* ---------- Prose ---------- */
